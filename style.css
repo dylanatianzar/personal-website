@@ -15,7 +15,6 @@ html, body {
     flex-direction: column;
     align-items: stretch;
     box-sizing: border-box;
-    flex: 1;
 }
 
 .site-header {
@@ -28,7 +27,7 @@ html, body {
 
 .body-content {
     display: flex;
-    flex: 2 1 auto;
+    flex: 1 1 auto;
     align-items: stretch;
     justify-content: center;
     align-items: center;
@@ -38,5 +37,5 @@ html, body {
     display: flex;
     align-items: stretch;
     background-color: white;
-    flex: 1
+    /* flex: 1 */
 }
