@@ -37,6 +37,6 @@ html, body {
 .site-footer {
     display: flex;
     align-items: stretch;
-    background-color: gray;
-    /* flex: 1 */
+    background-color: white;
+    flex: 1
 }
