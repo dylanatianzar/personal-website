@@ -16,14 +16,12 @@ html, body {
     align-items: stretch;
     box-sizing: border-box;
     flex: 1;
-    gap: 8px;
 }
 
 .site-header {
     display: flex;
     background-color: gray;
     align-items: stretch;
-    flex: 1;
     box-shadow: rgba(0, 0, 0, 0.642) 0px 3px 12px;
     align-items: center;
 }
@@ -39,5 +37,6 @@ html, body {
 .site-footer {
     display: flex;
     align-items: stretch;
-    flex: 1;
+    background-color: gray;
+    /* flex: 1 */
 }
